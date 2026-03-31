@@ -4,12 +4,12 @@
     "duration": "2099-09-30"
   },
   {
-    "key": "AERIS-cloudylightss",
-    "duration": "2099-09-32"
+    "key": "AERIS-TPAID",
+    "duration": "lifetime"
   },
   {
     "key": "AERIS-free1",
-    "duration": "2026-03-30"
+    "duration": "2026-03-31"
   },
   {
     "key": "AERIS-free2",
@@ -20,7 +20,11 @@
     "duration": "2026-03-30"
   },
   {
-    "key": "AERIS-free4",
-    "duration": "2026-03-30"
+    "key": "AERIS-vvrgl",
+    "duration": "2026-04-01"
+  },
+  {
+    "key": "AERIS-ra.ppture",
+    "duration": "2026-04-01"
   },
 ]
